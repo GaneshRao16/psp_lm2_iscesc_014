@@ -2,6 +2,7 @@
 #include<stdio.h>
 int main()
 {
+  
   int a,b,sum;
   printf("Enter 2 numbers to be added\n");
   printf("a=");
