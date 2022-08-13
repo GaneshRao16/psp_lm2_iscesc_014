@@ -1,0 +1,14 @@
+\\increment of a number using do while loop
+#include<stdio.h>
+int main()
+{
+int num,i=0;
+printf("Enter a number:");
+scanf("%d",&num);
+do
+{
+printf("%d",i+1);
+
+i=i+1;
+}w
+}
